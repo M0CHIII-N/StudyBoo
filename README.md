@@ -1,2 +1,3 @@
-sdasdasdasd
 # StudyBoo
+
+A student companion app
