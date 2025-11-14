@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547563298045",
+    "project_id": "study-boo-ychsj3",
+    "storage_bucket": "study-boo-ychsj3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547563298045:android:f7e57d8d8077bd063fb294",
+        "android_client_info": {
+          "package_name": "com.mycompany.studyboo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Xg0xPToFEWGPIJvcFZANlXcTGBoMsoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
